@@ -1,0 +1,9 @@
+name: "Mywebsite"
+title: "OreKehStrah's Cubing Projects Site"
+type: inverse
+left:
+  - text: "Projects"
+    menu:
+       - text: "ZBLL Recognition Guide"
+         href: ./OreKehStrah's ZBLL Recognition Guide.html
+

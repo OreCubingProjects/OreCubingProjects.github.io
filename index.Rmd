@@ -1,0 +1,18 @@
+---
+title: "OreKehStrah's Cubing Project Site"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+This is just a basic website I will be hosting larger, more important cubing projects.
+
+
+
+
+
+
+
+
+
+
